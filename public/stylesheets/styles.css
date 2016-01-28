@@ -513,6 +513,21 @@ fieldset[disabled] .btn-default.active {
     background: #222;
 }
 
+.kissesgif {
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  z-index: 1;
+  background:url(../assets/ebanner/kisses-lg.gif) no-repeat center center
+}
+
+/*.center-overlay img {
+  z-index: 1;
+  top: auto;
+  bottom: auto;
+}*/
+
 img::selection {
     color: #fff;
     background: 0 0;
