@@ -39,7 +39,7 @@
       },
       {
         question: "For gifts, are you registered anywhere?",
-        answer: "If it would bring you joy to give us a wedding gift, we gratefully invite you to choose something from among your favorite local shops and crafters. Additionally, as we get closer to the wedding date, we will build up registries on Etsy and probably a home/kitchen store or two to provide ideas and options for those who prefer that route! Once we have that information we will post it here."
+        answer: "If it would bring you joy to give us a wedding gift, we gratefully invite you to choose something from among your favorite local shops and crafters. For those who prefer to choose from a registry, as we get closer to the wedding date we will build up registries on Etsy and a couple of home/kitchen stores to provide ideas and options. Once we have that information we will post it here."
       },
       {
         question: "I’ll be there! What should I wear?",
@@ -51,7 +51,7 @@
       },
       {
         question: "Where can I stay?",
-        answer: "For those of you traveling from out of town, we recommend staying either at the downtown Holiday Inn Express or in Plymouth (near Ross’ parents). We’ve also seen several good and affordable options on www.airb&b.com and www.vrbo.com, and recommend checking them out. If you’d be interested in sharing a larger short-term rental, do let us know and we’d be more happy to help facilitate for you!"
+        answer: "For those of you traveling from out of town, we recommend staying either at the <a href='http://www.ihg.com/holidayinnexpress/hotels/us/en/minneapolis/mspdt/hoteldetail'>downtown Holiday Inn Express</a> or <a href='https://www.google.com/maps/search/hotels/@44.9946353,-93.5681971,12z'>in Plymouth (near Ross’ parents)</a>. We’ve also seen several good and affordable options on <a href='https://www.airbnb.com/s/Calhoun-Isles--Minneapolis--MN--United-States?guests=2&checkin=10%2F07%2F2016&checkout=10%2F08%2F2016&ss_id=lldtsr79&source=bb&s_tag=zuWpLj1n'>AirBnB</a> and <a href='https://www.vrbo.com/vacation-rentals?q=Calhoun+Isles%2c+Minneapolis%2c+MN%2c+USA&sleeps=2-plus&from-date=2016-10-07&to-date=2016-10-08'>VRBO</a>, and recommend checking them out (use these links to search specifically for our location and dates)! If you’d be interested in sharing a larger short-term rental, do let us know and we’d be more happy to help facilitate for you!"
       },
       {
         question: "If we’re all out of the Bakken by 9 … what then? ",
