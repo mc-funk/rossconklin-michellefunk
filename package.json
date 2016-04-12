@@ -1,7 +1,7 @@
 {
-  "name": "node-js-getting-started",
-  "version": "0.1.5",
-  "description": "A sample Node.js app using Express 4",
+  "name": "rossconklin.michellefunk.com",
+  "version": "1.0",
+  "description": "Information about the 2016 wedding of Michelle Funk and Ross Conklin",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
