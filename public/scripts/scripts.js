@@ -47,7 +47,7 @@
       },
       {
         question: "You’re feeding us, right?",
-        answer: "As people arrive, we will have little crackers and sparkling beverages around in case anyone wants a nibble before the ceremony. For the post-ceremony celebration, food and drink will be catered by the wonderful France 44.  Expect beautiful veggie and cheese plates and other small-format foods, in addition to wine and beer.  We are not doing a formal meal, but there should be plenty to eat and drink for all."
+        answer: "Yes! We know this is a mealtime event and will be providing food accordingly. As people arrive, we will have little crackers and sparkling beverages around in case anyone wants a nibble before the ceremony. For the post-ceremony celebration, food and drink will be catered by the wonderful France 44. Expect a broad spread of veggies, fruits, fine cheeses, small sandwiches, and other portable foods -- in addition to wine and beer."
       },
       {
         question: "Where can I stay?",
