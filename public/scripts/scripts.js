@@ -39,7 +39,7 @@
       },
       {
         question: "For gifts, are you registered anywhere?",
-        answer: "If it would bring you joy to give us a wedding gift, we gratefully invite you to choose something from among your favorite local shops and crafters. For those who prefer to choose from a registry, as we get closer to the wedding date we will build up registries on Etsy and a couple of home/kitchen stores to provide ideas and options. Once we have that information we will post it here."
+        answer: "If it would bring you joy to give us a wedding gift, we gratefully invite you to choose something from among your favorite local shops and crafters, or if you prefer gift registries, see below for ideas:<p><h4><ul><li><a href='https://www.amazon.com/wedding/michelle-c-funk-ross-conklin-minneapolis-october-2016/registry/18WKDHOICP3YT'>Amazon.com Universal Registry</a>:&nbsp;Amazon lets us register anything we can find on the web, so this includes a number of suggestions for local businesses and non-stuff gift ideas.</li><li><a href='http://www.etsy.com/registry/ODE2MTY4OXw4MzM5MTE0/'>Etsy.com</a>:&nbsp; Local crafters from around the world sell their goods on Etsy! Mostly kitchen, home & garden pieces on this list.</li><li><a href='https://www.amazon.com/wedding/michelle-c-funk-ross-conklin-minneapolis-october-2016/registry/18WKDHOICP3YT'>Target</a>:&nbsp;There are a number of wonderful practical things here we could really use.</li></ul></h4>"
       },
       {
         question: "I’ll be there! What should I wear?",
