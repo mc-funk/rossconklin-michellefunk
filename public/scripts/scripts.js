@@ -1,6 +1,8 @@
 (function($) {
     "use strict";
 
+    document.getElementById("video-background").playbackRate = 0.6;
+
     $('body').scrollspy({
         target: '.navbar-fixed-top',
         offset: 60
